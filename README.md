@@ -15,7 +15,7 @@ Hello! I always ran into the problem of having to turn on and set my nvidia grap
 # How it works
 When you login into your computer account,this script enables the GPU fan controll and sets the fan speed nvidia atribute to the default fan speed in the script.
 
-# How to install.git
+# How to install
 - git clone https://github.com/ImL3/NvidiaGpuFanControll.git
 
 - cd NvidiaGpuFanControll
@@ -24,6 +24,6 @@ When you login into your computer account,this script enables the GPU fan contro
 
 - (optional) change the default fan speed
 
-- mv gpu_fan.sh /etc/profile.d/gpu_fan.sh
+- sudo mv gpu_fan.sh /etc/profile.d/gpu_fan.sh
 
 # Thank you <3
