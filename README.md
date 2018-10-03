@@ -1,5 +1,5 @@
 # Intro
-Hello! I always ran into the problem of having to turn on and set my nvidia grapichs card fan on the nvdia-settings panel when I booted my PC linux distros that I've tried (Fedora && Ubuntu), and after searching the entire web looking for a fix and finding nothing, I decided to learn shell scripting and make my first script the fix for my problem (I don't know if I can call this a shell script hahah at least it has .sh filename). I hope this helps you as it helps me.
+Hello! I always ran into the problem of having to turn on and set my nvidia graphics card fan on the nvdia-settings panel when I booted my PC linux distros that I've tried (Fedora && Ubuntu), and after searching the entire web looking for a fix and finding nothing, I decided to learn shell scripting and make my first script the fix for my problem (I don't know if I can call this a shell script hahah at least it has .sh filename). I hope this helps you as it helps me.
 
 # Info
 This script was only tested with Ubuntu 18.04 LTS.
